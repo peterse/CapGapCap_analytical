@@ -5,11 +5,11 @@ import matplotlib as mpl
 mpl.rcParams["lines.linewidth"] = 3
 
 # Fontsizes
-mpl.rcParams["axes.labelsize"] = 24
-mpl.rcParams["xtick.labelsize"] = 18
-mpl.rcParams["ytick.labelsize"] = 18
-mpl.rcParams["axes.titlesize"] =  24
-mpl.rcParams["legend.fontsize"] = 22
+mpl.rcParams["axes.labelsize"] = 28
+mpl.rcParams["xtick.labelsize"] = 24
+mpl.rcParams["ytick.labelsize"] = 24
+mpl.rcParams["axes.titlesize"] =  28
+mpl.rcParams["legend.fontsize"] = 28
 
 # Grid settings
 mpl.rcParams['grid.color'] = 'k'
